@@ -18,3 +18,6 @@ The password is 30 characters long and it is a combination of numbers, letters a
 
 ### Requirements
 * Python 3
+
+## New Releases
+Check out new releases of this program
