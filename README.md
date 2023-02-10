@@ -21,3 +21,4 @@ The password is 30 characters long and it is a combination of numbers, letters a
 
 ## New Releases
 Check out new releases of this program
+[Password Generator v.2.0.0](https://github.com/BazarganDev/Password-Generator/releases/tag/Security)
