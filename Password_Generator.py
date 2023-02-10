@@ -9,12 +9,12 @@ def GENERATE_PASSWORD():
 	PUNCTUATION = string.punctuation
 	SEQUENCE = NUMBERS + ALPHABET + PUNCTUATION
 
-	PASSWORD = ""
+	password = ""
 	# Select 30 characters from the combined sequence
 	for character in range(30):
 		character = random.choice(SEQUENCE)
-		PASSWORD += character
+		password += character
 
-	print(PASSWORD)
+	print(password)
 
 GENERATE_PASSWORD()
