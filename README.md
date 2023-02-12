@@ -1,4 +1,4 @@
-# Password-Generator01
+# Password_Generator01
 Create a password using Python
 
 ## Warning
@@ -16,9 +16,8 @@ The password is 30 characters long and it is a combination of numbers, letters a
 * [random](https://docs.python.org/3/library/random.html#module-random)
 * [string](https://docs.python.org/3/library/string.html?highlight=string#module-string)
 
-### Requirements
-* Python 3
+## New Release
+### Password_Generator02
+An inproved and more secured version of Password_Generator01. This one is usable for security purposes and cryptography.
 
-## New Releases
-Check out new releases of this program
-* [Password Generator v.2.0.0](https://github.com/BazarganDev/Password-Generator/releases/tag/Security)
+[Password Generator02 (v.2.0.0)](https://github.com/BazarganDev/Password-Generator/releases/tag/Security)
